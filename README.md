@@ -1,6 +1,6 @@
 # Projet Vue.js 3 + Vite - ForEach B2
 
-## Quel est le projet (spécifications) ? 
+## Quel est le projet (spécifications) ?
 
 Le but de ce projet est de créer votre portfolio ou site CV à l'aide de Vue.js 3 et Vite.
 C'est le moment de faire un projet qui vous ressemble que vous sera utile!
@@ -11,15 +11,15 @@ Vous êtes libre de choisir de faire le projet avec TypeScript ou non, cela n'im
 L'évaluation des compétences se fera sur les axes suivants:
 
 1. Utiliser la Composition API
-    - Utiliser la syntaxe `<script setup>`.
-    - Créer des composants et décomposer le code.
-    - Utiliser les composables (`vue-router`, `vue-i18n`...)
+   - Utiliser la syntaxe `<script setup>`.
+   - Créer des composants et décomposer le code.
+   - Utiliser les composables (`vue-router`, `vue-i18n`...)
 2. Utiliser Vite et les plugins
-    - Utiliser les plugins Vite (`pages`, `icons`...)
-    - Utiliser une librairie Utility CSS (`Windicss`, `Tailwind`, `Unocss`...)
+   - Utiliser les plugins Vite (`pages`, `icons`...)
+   - Utiliser une librairie Utility CSS (`Windicss`, `Tailwind`, `Unocss`...)
 3. Organisation du projet et developer experience
-    - Organiser les différentes composantes du projet (dossiers, nommage...)
-    - Analyse statique du code, lintage et formattage (`eslint`, `prettier`...)
+   - Organiser les différentes composantes du projet (dossiers, nommage...)
+   - Analyse statique du code, lintage et formattage (`eslint`, `prettier`...)
 
 Pour vous donner quelques pistes:
 
